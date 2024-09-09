@@ -1,0 +1,15 @@
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.exe
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.deps.json
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.runtimeconfig.json
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.dll
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.pdb
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.AssemblyInfoInputs.cache
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.AssemblyInfo.cs
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.sourcelink.json
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.dll
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\obj\Debug\net8.0\refint\SistemaHospedagem.dll
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.pdb
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.genruntimeconfig.cache
+C:\Users\arnol\OneDrive\Área de Trabalho\lab-natty-or-not\SistemaHospedagem\obj\Debug\net8.0\ref\SistemaHospedagem.dll
